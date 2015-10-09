@@ -53,9 +53,9 @@ background-image: url('http://robkeyes.com/wp-content/uploads/2013/09/Breaking-B
 .jumbotron h1{
   color: #e0d3ab;
   text-align: left;
-  font-family: Avenir;
+  font-family: Arial;
   font-size: 40px;
-  padding-left: 100px;
+  padding-left: 125px;
   padding-top: 565px;
   margin:0px;
 }
@@ -63,9 +63,9 @@ background-image: url('http://robkeyes.com/wp-content/uploads/2013/09/Breaking-B
 .jumbotron h2{
   color: #e0d3ab;
   text-align: left;
-  font-family:Avenir;
+  font-family:Arial;
   font-size: 20px;
-  padding-left: 100px;
+  padding-left: 125px;
   position: relative;
   margin:3px;
 }
@@ -76,30 +76,31 @@ background-image: url('http://robkeyes.com/wp-content/uploads/2013/09/Breaking-B
 }
 
 .content h1{
-  font-family:  Arial,Helvetica,Verdana,sans-serif;
+  font-family:  Arial,Helvetica,Verdana,Geneva,sans-serif;
   font-size:30px;
   font-weight: bold;
   color:#4d4d4d;
 }
 
 .content h2{
-  font-family:  Arial,Helvetica,Verdana,sans-serif;
+  font-family:  Arial,Helvetica,Verdana,Geneva,sans-serif;
   font-size:26px;
   font-weight: bold;
   color:#4d4d4d;
   }
 
 .content h3{
-  font-family:  Arial,Helvetica,Verdana,sans-serif;
+  font-family:  Arial,Helvetica,Verdana,Geneva,sans-serif;
   font-size:22px;
   font-weight: bold;
   color:#4d4d4d;
 }
  
 .content p{
-  font-family: Arial,Helvetica,Verdana,sans-serif;
+  font-family: Arial,Helvetica,Verdana,Geneva,sans-serif;
   font-size: 16px;
   padding-bottom: 5px;
+  padding-top:20px;
   line-height: 25px;
   color:#333333;
 }
