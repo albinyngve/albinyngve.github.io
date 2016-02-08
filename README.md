@@ -1,1 +1,0 @@
-# albinyngve.github.io
